@@ -1,0 +1,16 @@
+# data
+data/
+*.csv
+*.pkl
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# notebooks outputs
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
