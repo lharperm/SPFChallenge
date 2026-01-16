@@ -14,3 +14,10 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# data archives
+*.zip
+*.7z
+*.rar
+
+data/
